@@ -1,6 +1,6 @@
 # Awesome-Technical-Documentation-Publishing
 
-# Top Technical Documentation & Publishing Tools Ecosystem
+## Top Technical Documentation & Publishing Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Docs-as-Code, Multi-Format Output & Self-Hosted Publishing Pipelines*  
