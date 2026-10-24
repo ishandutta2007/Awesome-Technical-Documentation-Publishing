@@ -70,58 +70,58 @@ The table below compiles leading hosted documentation and publishing platforms, 
 
 ## 🛠️ Open-Source GitHub Projects
 
-Open-source publishing tools power high-velocity docs-as-code teams. Below is the curated catalog, **sorted in descending order by GitHub stargazers**. Each project includes a real-time star badge linking to its official stargazers page.
+Open-source publishing tools power high-velocity docs-as-code teams. Below is the curated catalog, **sorted in descending order by GitHub stargazers**. Each project includes a real-time Stars_Badge linking to its official stargazers page.
 
 ### Top Docs-as-Code & Static Site Generators
 
-1. **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
+1. **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub_Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
    *The world's fastest static site engine.* Written in Go, Hugo builds thousands of pages in milliseconds. Paired with popular technical documentation themes like [Docsy](https://github.com/google/docsy) or [Hugo Book](https://github.com/alex-shpak/hugo-book), it powers major open-source documentation hubs including Kubernetes.
 
-2. **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers)  
+2. **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers)  
    *The React-powered documentation site generator by Meta.* Combines the speed of static HTML with client-side React hydration. Features out-of-the-box versioning, internationalization (i18n), Algolia DocSearch integration, and full MDX support for embedding interactive React UI components directly into Markdown files.
 
-3. **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
+3. **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub_Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
    *The universal markup converter.* Written in Haskell, Pandoc is the Swiss Army knife of multi-format technical publishing. It converts flawlessly between Markdown, reStructuredText, HTML, LaTeX, PDF, EPUB, DocBook, Word docx, and man pages. Essential for custom publishing pipelines requiring programmatic output transformations.
 
-4. **[Slate](https://github.com/slatedocs/slate)** [![GitHub stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers)  
+4. **[Slate](https://github.com/slatedocs/slate)** [![GitHub_Stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers)  
    *The legendary three-panel API documentation generator.* Inspired by Stripe's iconic developer docs, Slate keeps code samples, terminal requests, and textual explanations cleanly separated across responsive, intuitive side-by-side columns.
 
-5. **[Docsify](https://github.com/docsifyjs/docsify)** [![GitHub stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers)  
+5. **[Docsify](https://github.com/docsifyjs/docsify)** [![GitHub_Stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers)  
    *A magical documentation site generator without static HTML compilation.* Docsify dynamically loads and renders Markdown files on the fly on the client side. No build steps, no Node build pipelines — simply deploy an `index.html` file and your Markdown documents to GitHub Pages.
 
-6. **[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)** [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers)  
+6. **[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)** [![GitHub_Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers)  
    *The gold-standard enterprise theme for MkDocs.* Delivers instant offline search, dark/light toggle, code annotations, mathematical typesetting (MathJax/KaTeX), versioning dropdowns, and deep accessibility compliance.
 
-7. **[MkDocs](https://github.com/mkdocs/mkdocs)** [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers)  
+7. **[MkDocs](https://github.com/mkdocs/mkdocs)** [![GitHub_Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers)  
    *Fast, simple Markdown static site generator.* Configured via a single `mkdocs.yml` file, MkDocs includes a lightning-fast local development server with auto-reload, built-in search, and seamless one-command deployment to GitHub Pages via `mkdocs gh-deploy`.
 
-8. **[mdBook](https://github.com/rust-lang/mdBook)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=social&color=white)](https://github.com/rust-lang/mdBook/stargazers)  
+8. **[mdBook](https://github.com/rust-lang/mdBook)** [![GitHub_Stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=social&color=white)](https://github.com/rust-lang/mdBook/stargazers)  
    *The official Rust project book generator.* Implemented in Rust for blazing-fast compilation, mdBook compiles structured Markdown files into clean, searchable, responsive online books. Features integrated code block execution, print-friendly CSS, and CLI scaffolding.
 
-9. **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers)  
+9. **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub_Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers)  
    *Vite & Vue-powered static site generator.* The spiritual successor to VuePress, VitePress provides instant server start times, dead-simple Markdown-with-Vue authoring, and optimized production builds. Powers the official documentation for Vue.js, Vite, Rollup, and Vitest.
 
-10. **[Nextra](https://github.com/shuding/nextra)** [![GitHub stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers)  
+10. **[Nextra](https://github.com/shuding/nextra)** [![GitHub_Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers)  
     *The Next.js and MDX documentation framework by Vercel.* Combines the full power of Next.js App Router, React Server Components (RSC), and MDX with file-system routing and automatic sidebar generation.
 
-11. **[Fumadocs](https://github.com/fuma-nama/fumadocs)** [![GitHub stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers)  
+11. **[Fumadocs](https://github.com/fuma-nama/fumadocs)** [![GitHub_Stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers)  
     *The performant full-stack documentation framework for Next.js.* Features integrated full-text search (Orama/FlexSearch), OpenAPI interactive playground generation, automated type generation, and TypeScript code highlighting.
 
-12. **[Starlight](https://github.com/withastro/starlight)** [![GitHub stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers)  
+12. **[Starlight](https://github.com/withastro/starlight)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers)  
     *The documentation framework built on Astro.* Ships zero client-side JavaScript by default, resulting in stellar Lighthouse performance scores. Features built-in internationalization, Pagefind search, Markdown/MDX authoring, and table-of-contents generation.
 
-13. **[Sphinx](https://github.com/sphinx-doc/sphinx)** [![GitHub stars](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=social&color=white)](https://github.com/sphinx-doc/sphinx/stargazers)  
+13. **[Sphinx](https://github.com/sphinx-doc/sphinx)** [![GitHub_Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=social&color=white)](https://github.com/sphinx-doc/sphinx/stargazers)  
     *The battle-tested documentation generator behind Python and Linux kernel.* Translates reStructuredText and MyST Markdown into multi-format deliverables: HTML websites, production-grade LaTeX PDFs, EPUB, and Unix man pages. Its `autodoc` extension extracts live docstrings from codebase modules, while `intersphinx` allows cross-referencing across independent repositories.
 
-14. **[Asciidoctor](https://github.com/asciidoctor/asciidoctor)** [![GitHub stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor?style=social&color=white)](https://github.com/asciidoctor/asciidoctor/stargazers)  
+14. **[Asciidoctor](https://github.com/asciidoctor/asciidoctor)** [![GitHub_Stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor?style=social&color=white)](https://github.com/asciidoctor/asciidoctor/stargazers)  
     *A fast, open-source text processor and publishing toolchain for AsciiDoc.* Converts plain-text AsciiDoc into HTML5, DocBook, PDF, and EPUB. Provides native file inclusion, attributes, conditional execution, and mathematical formulas without XML verbosity.
 
 ### Specialized Format Converters & Enterprise XML Engines
 
-15. **[DITA Open Toolkit (DITA-OT)](https://github.com/dita-ot/dita-ot)** [![GitHub stars](https://img.shields.io/github/stars/dita-ot/dita-ot?style=social&color=white)](https://github.com/dita-ot/dita-ot/stargazers)  
+15. **[DITA Open Toolkit (DITA-OT)](https://github.com/dita-ot/dita-ot)** [![GitHub_Stars](https://img.shields.io/github/stars/dita-ot/dita-ot?style=social&color=white)](https://github.com/dita-ot/dita-ot/stargazers)  
     *The open-source publishing engine for the OASIS DITA standard.* Converts DITA XML maps and topic components into responsive HTML5, PDF (via Apache FOP), Eclipse Help, and RTF deliverables.
 
-16. **[SiSU](https://github.com/sisudoc/sisu)** [![GitHub stars](https://img.shields.io/github/stars/sisudoc/sisu?style=social&color=white)](https://github.com/sisudoc/sisu/stargazers)  
+16. **[SiSU](https://github.com/sisudoc/sisu)** [![GitHub_Stars](https://img.shields.io/github/stars/sisudoc/sisu?style=social&color=white)](https://github.com/sisudoc/sisu/stargazers)  
     *Command-line document structuring and publishing system.* Generates plain text, HTML, XHTML, XML, EPUB, LaTeX, and PDF from minimal markup based on an indexed object-numbering framework that guarantees citation consistency across formats.
 
 17. **[Antora](https://gitlab.com/antora/antora)** *(Hosted on GitLab)*  
@@ -177,7 +177,7 @@ We welcome contributions from technical writers, documentation engineers, and op
 3. 📝 **Add or edit entries in `README.md`**:
    - Maintain table formats and sorting criteria.
    - For SaaS tools: include verified starting prices, exact free tier/trial limits, and company scale metrics.
-   - For open-source tools: include the shields.io social star badge linked to the stargazers page.
+   - For open-source tools: include the shields.io social Stars_Badge linked to the stargazers page.
 4. 🚀 **Submit a Pull Request** with a concise explanation of the changes.
 
 ---
@@ -185,7 +185,7 @@ We welcome contributions from technical writers, documentation engineers, and op
 ## ⚖️ Disclaimer
 
 - This repository is a **community-curated guide** intended for architectural research and product benchmarking.
-- Product pricing, trial lengths, company valuations, and repository star counts represent verifiable market snapshots as of **2025–2026** and are subject to change by their respective vendors and maintainers.
+- Product pricing, trial lengths, company valuations, and repository Stars_Counts represent verifiable market snapshots as of **2025–2026** and are subject to change by their respective vendors and maintainers.
 
 ---
 
